@@ -1,0 +1,16 @@
+feature,feature_type,score,n_encoded_columns,rank
+default,categorical,-4.681905707570877e-08,2,1
+loan,categorical,0.001658849185332656,2,2
+housing,categorical,0.00793522922322154,2,3
+marital,categorical,0.01894903928041458,3,4
+pdays,numeric,0.05160864070057869,1,5
+poutcome,categorical,0.05606640872429125,4,6
+education,categorical,0.07125032087787986,4,7
+previous,numeric,0.13110829889774323,1,8
+contact,categorical,0.13517656922340393,3,9
+age,numeric,0.1456974446773529,1,10
+campaign,numeric,0.17640674114227295,1,11
+balance,numeric,0.22076867520809174,1,12
+duration,numeric,0.22344231605529785,1,13
+job,categorical,0.329722589502732,12,14
+day,numeric,0.3373209536075592,1,15
