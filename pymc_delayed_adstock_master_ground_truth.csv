@@ -1,0 +1,6 @@
+channel,alpha_true,theta_true,beta_true,l_max,normalize,seed
+x1,0.7,4.0,2.0,12,True,20260810
+x2,0.55,2.0,1.5,12,True,20260810
+x3,0.8,6.0,1.2,12,True,20260810
+x4,0.35,1.0,1.8,12,True,20260810
+x5,0.65,3.0,1.0,12,True,20260810
